@@ -58,7 +58,7 @@ body {
   font-weight: 700;
   font-size: 18px;
   color: #3f2aff;
-  background-image: url("/4.17/img/download.png");
+  background-image: url("../img/download.png");
   background-position: left center;
   background-size: 25px 25px;
   background-repeat: no-repeat;
@@ -138,11 +138,11 @@ body {
 }
 
 .first-gray-box {
-  background-image: url("/4.17/img/decorate-1.png");
+  background-image: url("../img/decorate-1.png");
 }
 
 .second-gray-box {
-  background-image: url("/4.17/img/decorate-2.png");
+  background-image: url("../img/decorate-2.png");
 }
 
 .list {
